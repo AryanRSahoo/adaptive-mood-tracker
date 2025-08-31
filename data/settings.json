@@ -1,0 +1,7 @@
+{
+  "reminder_enabled": true,
+  "reminder_time": "20:00",
+  "reminder_message": "Time to log your daily mood! \ud83d\udcdd",
+  "last_reminder_date": null,
+  "consecutive_days": 0
+}

@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/mood_data.csv
+data/reports/*.pdf
+data/charts/*.png
+.DS_Store
