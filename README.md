@@ -357,3 +357,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Built for emotional intelligence and productivity optimization**
+
+**## 📘 Project Article
+I’ve written a detailed technical + personal write-up about this project on Medium.  
+👉 [Read the full story here](https://medium.com/@aryansahoouni/building-an-ai-powered-emotion-aware-productivity-assistant-d8b86f16d46d)**
